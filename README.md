@@ -22,8 +22,8 @@ Projeto desenvolvido para a `Formação Lógica de Programação` da [Digital In
 - 🧪 Testar Online no site **W3schools**.
 👉 [Clique aqui para abrir o Editor da W3Schools](https://www.w3schools.com/js/tryit.asp?filename=tryjs_myfirst)
 
-> **Como rodar:** Cole o código no arquivo `index.js` do projeto dentro da estrutura `HTML`.
-> 👉 [Clique aqui para abrir o Editor da W3Schools](https://www.w3schools.com/js/tryit.asp?filename=tryjs_myfirst)
+> **Como rodar:** Cole o código no arquivo `index.js` do projeto dentro da estrutura `HTML`,
+> 👉 [Clique aqui para abrir o Editor da W3Schools](https://www.w3schools.com/js/tryit.asp?filename=tryjs_myfirst),
 dentro das tags:
  **<script>** 
   *Cole o código aqui !!*
