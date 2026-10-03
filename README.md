@@ -9,13 +9,25 @@ Projeto desenvolvido para a `Formação Lógica de Programação` da [Digital In
 
 - `nome`
 - `idade`
-- `tipo` (ex: `guerreiro`, `mago`, `monge`, `ninja` ).
-- 
+- `tipo`
+- Ex: `guerreiro`, `mago`, `monge`, `ninja`.
+ 
 ## 🛠️ Tecnologias Utilizadas
 - JavaScript
 - Conceitos de Programação Orientada a Objetos (Classes e Objetos)
 - Estruturas condicionais (`if / else`)
 
 ## 🚀 Como executar
-Basta ter o Node.js instalado e executar o comando no terminal:
-`node index.js`
+## 🧪 Testar Online no site **W3schools**.
+
+Você pode executar e testar este código diretamente no navegador através do editor interativo da W3Schools:
+
+👉 [Clique aqui para abrir o Editor da W3Schools](https://www.w3schools.com/js/tryit.asp?filename=tryjs_myfirst)
+
+> **Como rodar:** Cole o código do projeto dentro da estrutura:
+> <!DOCTYPE html>
+<html>
+<body>
+<h2>Teste do Desafio DIO</h2>
+dentro das tags `<script>`... `<script>.
+No lado esquerdo e clique no botão verde **Run**. O resultado dos ataques aparecerá na tela do lado direito!
