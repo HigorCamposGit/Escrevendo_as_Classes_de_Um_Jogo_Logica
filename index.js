@@ -21,7 +21,7 @@ class Heroi {
             ataque = "shuriken";
         }
         // Exibição da mensagem no console
-        console.log(`o ${this.tipo} atacou usando ${ataque}`);
+        console.log(`O ${this.tipo} atacou usando ${ataque}`);
     }
 }
 
