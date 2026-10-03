@@ -11,7 +11,7 @@ class Heroi {
     atacar() {
         let ataque = ""; // Variável local
 
-        // ESTRUTURAS DE DECISÕES if / else if e OPERADORES de comparação "==="
+        // ESTRUTURAS DE DECISÕES if / else if e OPERADORES de comparação ===
         if (this.tipo === "mago") {
             ataque = "magia";
         } else if (this.tipo === "guerreiro") {
@@ -36,7 +36,7 @@ let herois = [
     new Heroi("Naruto Uzumaki", 17, "ninja")
 ];
 
-//LAÇOS DE REPETIÇÃO Percorre a lista de heróis e FUNÇÕES Invocando ".atacar()".
+//LAÇO DE REPETIÇÃO for que percorre a lista de heróis e FUNÇÕES Invocando ".atacar()".
 for (let heroi of herois) {
     heroi.atacar();
 }
