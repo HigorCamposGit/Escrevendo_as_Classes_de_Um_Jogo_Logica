@@ -19,7 +19,7 @@ Projeto desenvolvido para a `Formação Lógica de Programação` da [Digital In
 - Console do site W3Schools.
 ---
 ## 🚀 Como executar
-## 🧪 Testar Online no site **W3schools**.
+- 🧪 Testar Online no site **W3schools**.
 👉 [Clique aqui para abrir o Editor da W3Schools](https://www.w3schools.com/js/tryit.asp?filename=tryjs_myfirst)
 
 > **Como rodar:** Cole o código no arquivo `index.js` do projeto dentro da estrutura `HTML`.
