@@ -13,8 +13,10 @@ Projeto desenvolvido para a `Formação Lógica de Programação` da [Digital In
 --- 
 ## 🛠️ Tecnologias Utilizadas
 - JavaScript.
-- Conceitos de Programação Orientada a Objetos (Classes e Objetos).
+- Conceitos de `Programação Orientada a Objetos` (Classes e Objetos).
 - Estruturas condicionais (`if / else`).
+- Laço de repetição (`for`).
+- Operador de comparação (`===`).
 - Console do site W3Schools.
 ---
 ## 🚀 Como executar
