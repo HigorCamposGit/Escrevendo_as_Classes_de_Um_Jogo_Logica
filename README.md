@@ -24,10 +24,6 @@ Projeto desenvolvido para a `Formação Lógica de Programação` da [Digital In
 
 > **Como rodar:** Cole o código no arquivo `index.js` do projeto dentro da estrutura `HTML`.
 > 👉 [Clique aqui para abrir o Editor da W3Schools](https://www.w3schools.com/js/tryit.asp?filename=tryjs_myfirst)
-> <!DOCTYPE html>
-<html>
-<body>
-<h4>Teste do Desafio DIO</h4>
 dentro das tags:
  <script> 
   Cole o código aqui !!
