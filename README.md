@@ -5,7 +5,7 @@ Projeto desenvolvido para a `Formação Lógica de Programação` da [Digital In
 
 ## 📌 Objetivo:
 - Colocar em Prática as habilidades do curso.
--Crie uma classe generica que represente um herói de uma aventura e que possua as seguintes propriedades:
+- Crie uma classe generica que represente um herói de uma aventura e que possua as seguintes propriedades:
 
 - `nome`
 - `idade`
