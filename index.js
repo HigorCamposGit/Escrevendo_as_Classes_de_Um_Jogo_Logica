@@ -1,16 +1,17 @@
-// Criação da classe do Herói
+// CLASSES E OBJETOS 
 class Heroi {
     constructor(nome, idade, tipo) {
+        // VARIÁVEIS / PROPRIEDADES (Atributos do objeto)
         this.nome = nome;
         this.idade = idade;
         this.tipo = tipo;
     }
 
-    // Método de ataque do herói
+    // FUNÇÕES e MÉTODOS Ação da classe.
     atacar() {
-        let ataque = "";
+        let ataque = ""; // Variável local
 
-        // Verificão do tipo do herói para escolher o ataque
+        // ESTRUTURAS DE DECISÕES if / else if e OPERADORES de comparação "==="
         if (this.tipo === "mago") {
             ataque = "magia";
         } else if (this.tipo === "guerreiro") {
@@ -20,18 +21,27 @@ class Heroi {
         } else if (this.tipo === "ninja") {
             ataque = "shuriken";
         }
-        // Exibição da mensagem no console
+
+        // Exibe o resultado direto na tela branca da página no console da W3Schools, quebra a linha <br>)
+        document.write(`O ${this.tipo} atacou usando ${ataque}<br>`);
         console.log(`O ${this.tipo} atacou usando ${ataque}`);
     }
 }
 
-// Criando os heróis
-let mago = new Heroi("Gandalf", 100, "mago");
-let guerreiro = new Heroi("Aragorn", 87, "guerreiro");
-let monge = new Heroi("Saitō Musashibō Benkei", 38, "monge");
-let ninja = new Heroi("Naruto Uzumaki", 17, "ninja");
+// OBJETOS Instanciando os heróis com o new, criador de um novo objeto.
+let herois = [
+    new Heroi("Gandalf", 100, "mago"),
+    new Heroi("Aragorn", 87, "guerreiro"),
+    new Heroi("Saitō Musashibō Benkei", 38, "monge"),
+    new Heroi("Naruto Uzumaki", 17, "ninja")
+];
 
-// Chamando o método atacar - atacando
+//LAÇOS DE REPETIÇÃO Percorre a lista de heróis e FUNÇÕES Invocando ".atacar()".
+for (let heroi of herois) {
+    heroi.atacar();
+}
+
+// Chamando o método atacar.
 mago.atacar();
 guerreiro.atacar();
 monge.atacar();
