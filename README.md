@@ -24,10 +24,12 @@ Você pode executar e testar este código diretamente no navegador através do e
 
 👉 [Clique aqui para abrir o Editor da W3Schools](https://www.w3schools.com/js/tryit.asp?filename=tryjs_myfirst)
 
-> **Como rodar:** Cole o código do projeto dentro da estrutura:
+> **Como rodar:** Cole o código no arquivo `index.js` do projeto dentro da estrutura:
 > <!DOCTYPE html>
 <html>
 <body>
 <h2>Teste do Desafio DIO</h2>
-dentro das tags `<script>`... `<script>.
+**dentro das tags `<script>` ... `</script>`**
+</body>
+</html>.
 No lado esquerdo e clique no botão verde **Run**. O resultado dos ataques aparecerá na tela do lado direito!
