@@ -7,11 +7,11 @@ Projeto desenvolvido para a `Formação Lógica de Programação` da [Digital In
 - Colocar em Prática as habilidades do curso.
 - Criar uma classe genérica que represente um herói que possua as seguintes propriedades:
 
-- `nome`.
-- `idade`.
-- `tipo`.
+- `nome`
+- `idade`
+- `tipo`
 - Ex: `guerreiro`, `mago`, `monge`, `ninja`.
- 
+--- 
 ## 🛠️ Tecnologias Utilizadas
 - JavaScript.
 - Conceitos de Programação Orientada a Objetos (Classes e Objetos).
