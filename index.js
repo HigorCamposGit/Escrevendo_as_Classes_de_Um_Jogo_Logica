@@ -1,17 +1,17 @@
-// CLASSES E OBJETOS 
+// Classes e objetos.
 class Heroi {
     constructor(nome, idade, tipo) {
-        // VARIÁVEIS / PROPRIEDADES (Atributos do objeto)
+        // Variáveis e propriedades. Atributos do objeto
         this.nome = nome;
         this.idade = idade;
         this.tipo = tipo;
     }
 
-    // FUNÇÕES e MÉTODOS Ação da classe.
+    // Funções e métodos, ação da classe.
     atacar() {
         let ataque = ""; // Variável local
 
-        // ESTRUTURAS DE DECISÕES if / else if e OPERADORES de comparação ===
+        // Estrutura de decição if, else if e operador de comparação ===
         if (this.tipo === "mago") {
             ataque = "magia";
         } else if (this.tipo === "guerreiro") {
@@ -28,7 +28,7 @@ class Heroi {
     }
 }
 
-// OBJETOS Instanciando os heróis com o new, criador de um novo objeto.
+// Objetos instanciando os heróis com o new, criador de um novo objeto.
 let herois = [
     new Heroi("Gandalf", 100, "mago"),
     new Heroi("Aragorn", 87, "guerreiro"),
@@ -36,7 +36,7 @@ let herois = [
     new Heroi("Naruto Uzumaki", 17, "ninja")
 ];
 
-//LAÇO DE REPETIÇÃO for que percorre a lista de heróis e FUNÇÕES Invocando ".atacar()".
+//Laço de repetição for que percorre a lista de heróis e funções Invocando ".atacar()".
 for (let heroi of herois) {
     heroi.atacar();
 }
