@@ -29,3 +29,9 @@ dentro das tags:
   *Cole o código aqui !!*
  **</script>**
 No lado esquerdo e clique no botão verde **Run**. O resultado dos ataques aparecerá na tela do lado direito!
+
+---
+## 📷 Resultado da Execução
+
+![Demonstração do Ataque dos Heróis](./print-execucao.png)
+---
