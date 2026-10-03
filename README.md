@@ -5,8 +5,12 @@ Projeto desenvolvido para a `Formação Lógica de Programação` da [Digital In
 
 ## 📌 Objetivo:
 - Colocar em Prática as habilidades do curso.
-- Criar uma classe genérica que represente um herói de uma aventura e que possua as propriedades `nome`, `idade` e `tipo`, além de um método `atacar`.
+-Crie uma classe generica que represente um herói de uma aventura e que possua as seguintes propriedades:
 
+- `nome`
+- `idade`
+- `tipo` (ex: `guerreiro`, `mago`, `monge`, `ninja` ).
+- 
 ## 🛠️ Tecnologias Utilizadas
 - JavaScript
 - Conceitos de Programação Orientada a Objetos (Classes e Objetos)
